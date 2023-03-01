@@ -1,0 +1,38 @@
+{
+  "name": "1-black-box-instantiation-end",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.jsx",
+  "dependencies": {
+    "simple-react-validator": "1.6.1",
+    "inversify": "5.0.5",
+    "leaflet": "1.7.1",
+    "mobx": "^6.0.4",
+    "mobx-react": "^7.0.5",
+    "navigo": "8.11.1",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-scripts": "2.1.3",
+    "reflect-metadata": "0.1.13",
+    "tree-model": "1.0.7",
+    "wait-for-expect": "3.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
